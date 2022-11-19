@@ -1,0 +1,33 @@
+[[package]]
+name = "math3"
+version = "1.0"
+description = "这是第一个发布的版本"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pygame"
+version = "2.1.2"
+description = "Python Game Development"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[[package]]
+name = "random2"
+version = "1.0.1"
+description = "Python 3 compatible Pytohn 2 `random` Module."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "d64f6c999972bb80665c2eec90c504dec7d736ae83ca171a268da13f43db8a50"
+
+[metadata.files]
+math3 = []
+pygame = []
+random2 = []
